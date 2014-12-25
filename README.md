@@ -1,8 +1,7 @@
 Django for Journalism
 ===================================
 
-working from [For Journalism](http://forjournalism.com/) course:  
-"Django for Journalism," by Jeremy Bowers (http://forjournalism.github.io/courses/django/).  
+Working from [For Journalism](http://forjournalism.com/) course "Django for Journalism," by Jeremy Bowers (http://forjournalism.github.io/courses/django/).  
 Forked from source: https://github.com/ForJournalism/fj-django.
 
 # Course Contents
